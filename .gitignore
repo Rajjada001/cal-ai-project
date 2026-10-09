@@ -44,3 +44,5 @@ example
 
 # env
 .env
+# trigger.dev
+.trigger
